@@ -1,8 +1,5 @@
 # E-commerce_FastApi-mongodb
-This is an E-commerce website using Flask,FastApi &amp; mongobd. i build this website for my practice purpose using Python FastApi,Flask,Mongodb. 
- In where you'll a contact page and billing page which is i saved as cart.py.
- Into the billing page first fill required information and after click on submit button your data will saved into our mongodb database server. and data will collected by FastApi
- All packages should be install into python virtual environment venv 
+This website uses Flask, FastApi, and MongoDB as an e-commerce platform. I used Python FastApi, Flask, and Mongodb to develop this website as practise.Where you'll find the contact and billing pages, which I saved as contact.html and cart.html, respectively.Before clicking the submit button on the billing page, enter the necessary information. Your data will then be saved in our mongodb database server. and FastApi will collect the informationInstall all packages into the venv directory of the Python virtual environment.
  
 # Python packages that needs to be installed:
     •pip install fastapi
